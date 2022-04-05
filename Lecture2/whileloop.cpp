@@ -30,12 +30,14 @@ int main(){
 	}
 
 
-	// int x=78.8;
+	// int x=78;
 	// coutt<<x<<endl;
 
-	int y=78;
-	float f=y;
-	
+	// int y=78;
+	// float f=y; //78.0
+
+
+
 
 
 	// prcendance
