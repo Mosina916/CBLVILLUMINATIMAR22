@@ -91,6 +91,8 @@ int main(){
 			arr[j+1]=arr[j+1]-arr[j];
 
 			// one line swap-->h/w
+			// b=(a+b)-(a=b);
+			arr[j+1]=(arr[j]+arr[j+1])-(arr[j]=arr[j+1]);
 
 
 
