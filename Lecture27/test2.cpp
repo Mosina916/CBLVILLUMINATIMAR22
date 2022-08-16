@@ -24,10 +24,10 @@ int stair(int n , int ma ,int i){
 
 
 
-// //for(int l = 1 ; l<=max ; l++){
+// for(int l = 1 ; l<=max ; l++){
     
    
-// //}
+// }
 
 
 // return sum;
