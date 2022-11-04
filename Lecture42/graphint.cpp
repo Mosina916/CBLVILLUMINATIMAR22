@@ -61,6 +61,7 @@ int main(){
 	g.addedge(3,2);
 
 	g.printgraph();
+	g.printgraph();
 
 	// g.printgraph();
 
